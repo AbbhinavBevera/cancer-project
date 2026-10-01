@@ -1,0 +1,4 @@
+model,cv_accuracy,cv_accuracy_std,cv_recall,cv_recall_std,cv_roc_auc,cv_roc_auc_std
+Logistic Regression (L1),0.8538,0.0597,0.8766,0.0887,0.9372,0.0347
+Linear SVM,0.8128,0.0399,0.8403,0.0621,0.8852,0.046
+Random Forest,0.8961,0.0276,0.9719,0.023,0.9776,0.007

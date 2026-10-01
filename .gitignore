@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# large or private data
+data/*.csv
+data/*.tsv
+data/*.gz
+!data/README.md
+
+# saved models
+*.joblib

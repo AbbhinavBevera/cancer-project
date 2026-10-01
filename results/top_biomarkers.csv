@@ -1,0 +1,16 @@
+,selection_frequency,mean_coefficient,direction
+SYN_0835,1.0,-1.2798,lower in tumour
+SYN_0829,1.0,0.5566,higher in tumour
+SYN_0233,1.0,0.492,higher in tumour
+SYN_0618,1.0,-0.4347,lower in tumour
+SYN_1419,1.0,0.4127,higher in tumour
+SYN_0062,1.0,-0.3165,lower in tumour
+SYN_0808,0.98,0.3832,higher in tumour
+SYN_0733,0.98,0.3179,higher in tumour
+SYN_1017,0.98,-0.2615,lower in tumour
+SYN_0464,0.96,0.282,higher in tumour
+SYN_0498,0.96,0.2578,higher in tumour
+SYN_1075,0.96,0.2451,higher in tumour
+SYN_0422,0.92,-0.217,lower in tumour
+SYN_1134,0.9,0.1347,higher in tumour
+SYN_0265,0.86,0.1704,higher in tumour
